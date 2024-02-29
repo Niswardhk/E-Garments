@@ -1,4 +1,5 @@
 E-GARMENTS
+
 User authentication:
 
 Implement user authentication to allow users to create accounts, log in, and maintain history 
